@@ -1,0 +1,9 @@
+html, body {
+    cursor: url(./qe.png),auto;
+    text-align: center;
+}
+.qie {
+    color: crimson;
+    font-size: 32px;
+    
+}
